@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+iOS Enthusiast | Aspiring iOS Developer 📱
+
 <!--
 **Mapcky/Mapcky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
