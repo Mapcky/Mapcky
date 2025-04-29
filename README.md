@@ -2,7 +2,7 @@
 
 🎓 Recién egresado de la Facultad de Ingeniería de la Universidad Nacional de La Pampa como Analista Programador.  
 📱 Apasionado por el desarrollo de aplicaciones móviles, especialmente en el ecosistema iOS.  
-🚀 Trabajo con **Swift**, **SwiftUI**, y arquitectura **MVVM**.  
+🚀 Trabajo con **Swift**, **SwiftUI**, y arquitecturas como **MVVM** y **MVC**.  
 💡 Siempre con ganas de aprender, mejorar y aportar valor a los equipos donde participo.  
 
 ---
@@ -17,10 +17,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- **Frameworks:** SwiftUI, UIKit, Express
+- **Frameworks:** SwiftUI, UIKit, Node.Js, Express
   
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D1117?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 - **Base de datos:** Firebase, MySQL, PostgreSQL, Oracle
